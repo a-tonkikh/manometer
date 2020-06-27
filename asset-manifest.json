@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/manometer/static/css/main.8be7f1de.chunk.css",
+    "main.js": "/manometer/static/js/main.ea6e916e.chunk.js",
+    "main.js.map": "/manometer/static/js/main.ea6e916e.chunk.js.map",
+    "runtime-main.js": "/manometer/static/js/runtime-main.110a14a6.js",
+    "runtime-main.js.map": "/manometer/static/js/runtime-main.110a14a6.js.map",
+    "static/js/2.6a58b9bd.chunk.js": "/manometer/static/js/2.6a58b9bd.chunk.js",
+    "static/js/2.6a58b9bd.chunk.js.map": "/manometer/static/js/2.6a58b9bd.chunk.js.map",
+    "index.html": "/manometer/index.html",
+    "precache-manifest.4567b7cf8695e0ec16a97a97e1f58d0d.js": "/manometer/precache-manifest.4567b7cf8695e0ec16a97a97e1f58d0d.js",
+    "service-worker.js": "/manometer/service-worker.js",
+    "static/css/main.8be7f1de.chunk.css.map": "/manometer/static/css/main.8be7f1de.chunk.css.map",
+    "static/js/2.6a58b9bd.chunk.js.LICENSE.txt": "/manometer/static/js/2.6a58b9bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.110a14a6.js",
+    "static/js/2.6a58b9bd.chunk.js",
+    "static/css/main.8be7f1de.chunk.css",
+    "static/js/main.ea6e916e.chunk.js"
+  ]
+}
